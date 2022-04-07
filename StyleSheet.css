@@ -1,0 +1,26 @@
+﻿body {
+    background-color: skyblue;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+
+h5{
+    text-align:center;
+}
+img{
+    width: 35%;
+    height:300px;  
+}
+
+div{
+    background-color: gainsboro;
+    border: 5px solid black;
+    margin: 25px;
+    padding: 15px;
+    width: 350px;
+    float: right;
+}
